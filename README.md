@@ -8,7 +8,7 @@ A simple app that allows the user to discover the answer to a question and for t
 ### App Walk-though
 Click the screen to see the answer to the question.
 
-<img src="http://g.recordit.co/vUxCOrJsiO.gif" width=200><br>
+<img src="http://g.recordit.co/LSaxbShWvp.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
